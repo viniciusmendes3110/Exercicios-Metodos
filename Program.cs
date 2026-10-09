@@ -44,16 +44,3 @@ if (true != conversor.EstaQuente(18))
 
 // Exercício 4
 
-
-// ALGO A MAIS
-// ALGO A MAIS
-// ALGO A MAIS
-// ALGO A MAIS
-// ALGO A MAIS
-// ALGO A MAIS
-// ALGO A MAIS
-// ALGO A MAIS
-// ALGO A MAIS
-// ALGO A MAIS
-// ALGO A MAIS
-// ALGO A MAIS
